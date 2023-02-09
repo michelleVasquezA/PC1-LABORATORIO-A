@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Acer\\.nuget\\packages\\": {}
+    "C:\\Users\\Alejandro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AYLIN TODO\\UNIVERSIDAD SAN MARTIN\\CICLO 2022-II\\Programacion I\\20222\\pc1\\pc1.csproj",
+      "projectUniqueName": "d:\\MICHELLE\\2023\\PROJECTOS_CI-CD_PIPELINE\\PC1-LABORATORIO-A\\pc1.csproj",
       "projectName": "pc1",
-      "projectPath": "E:\\AYLIN TODO\\UNIVERSIDAD SAN MARTIN\\CICLO 2022-II\\Programacion I\\20222\\pc1\\pc1.csproj",
-      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "E:\\AYLIN TODO\\UNIVERSIDAD SAN MARTIN\\CICLO 2022-II\\Programacion I\\20222\\pc1\\obj\\",
+      "projectPath": "d:\\MICHELLE\\2023\\PROJECTOS_CI-CD_PIPELINE\\PC1-LABORATORIO-A\\pc1.csproj",
+      "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
+      "outputPath": "d:\\MICHELLE\\2023\\PROJECTOS_CI-CD_PIPELINE\\PC1-LABORATORIO-A\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
       }
     }
   }
