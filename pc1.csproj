@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
-
+<!--
     <PropertyGroup>
     <ConcurrentGarbageCollection>false</ConcurrentGarbageCollection>
     <ThreadPoolMinThreads>4</ThreadPoolMinThreads>
@@ -16,5 +16,5 @@
     <RuntimeHostConfigurationOption Include="System.Globalization.UseNls" Value="true" />
     <RuntimeHostConfigurationOption Include="System.Net.DisableIPv6" Value="true" />
   </ItemGroup>
-  
+  -->
 </Project>

@@ -1,13 +1,6 @@
 {
   "runtimeOptions": {
 
-    "configProperties": {
-      "System.GC.Server": true,
-      "System.GC.Concurrent": true,
-      "System.Threading.ThreadPool.MinThreads": 4,
-      "System.Threading.ThreadPool.MaxThreads": 8
-  },
-    
     "tfm": "net6.0",
     "frameworks": [
       {
