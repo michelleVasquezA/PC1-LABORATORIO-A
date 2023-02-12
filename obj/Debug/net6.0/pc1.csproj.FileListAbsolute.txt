@@ -55,3 +55,9 @@ D:\MICHELLE\2023\PROJECTOS_CI-CD_PIPELINE\PC1-LABORATORIO-A\obj\Debug\net6.0\sta
 D:\MICHELLE\2023\PROJECTOS_CI-CD_PIPELINE\PC1-LABORATORIO-A\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.pc1.props
 D:\MICHELLE\2023\PROJECTOS_CI-CD_PIPELINE\PC1-LABORATORIO-A\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.pc1.props
 D:\MICHELLE\2023\PROJECTOS_CI-CD_PIPELINE\PC1-LABORATORIO-A\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MICHELLE\2023\PROJECTOS_CI-CD_PIPELINE\PC1-LABORATORIO-A\bin\Debug\net6.0\site\web.config
+D:\MICHELLE\2023\PROJECTOS_CI-CD_PIPELINE\PC1-LABORATORIO-A\bin\Debug\net6.0\deployment-manifest.json
+D:\MICHELLE\2023\PROJECTOS_CI-CD_PIPELINE\PC1-LABORATORIO-A\bin\Debug\net6.0\site\appsettings.Development.json
+D:\MICHELLE\2023\PROJECTOS_CI-CD_PIPELINE\PC1-LABORATORIO-A\bin\Debug\net6.0\site\appsettings.json
+D:\MICHELLE\2023\PROJECTOS_CI-CD_PIPELINE\PC1-LABORATORIO-A\bin\Debug\net6.0\site\pc1.deps.json
+D:\MICHELLE\2023\PROJECTOS_CI-CD_PIPELINE\PC1-LABORATORIO-A\bin\Debug\net6.0\site\pc1.runtimeconfig.json
