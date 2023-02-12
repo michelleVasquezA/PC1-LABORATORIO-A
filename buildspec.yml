@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     PROJECT: PC1-LABORATORIO-A
-    DOTNET_FRAMEWORK: 6.0.308
+    DOTNET_FRAMEWORK: 7.0.102
 phases:
   build:
     commands:
