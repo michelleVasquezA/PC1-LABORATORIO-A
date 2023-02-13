@@ -1,15 +1,17 @@
 version: 0.2
-
-env:
-  variables:
-    PROJECT: PC1-LABORATORIO-A
-    DOTNET_FRAMEWORK: 7.0.102
 phases:
+  install:
+    runtime-versions:
+      dotnet: 6.0
+  pre_build:
+    commands:
+      - dotnet restore pc1.csproj
   build:
     commands:
-      - nuget restore
-      - msbuild $env:PROJECT.csproj /p:TargetFrameworkVersion=v$env:DOTNET_FRAMEWORK /p:Configuration=Release /p:DeployIisAppPath="Default Web Site" /p:PackageAsSingleFile=false /p:OutDir=C:\codebuild\artifacts\ /t:Package
+      - dotnet build pc1.csproj
+  post_build:
+    commands:
+      - dotnet publish -c Release -o ./app/ pc1.csproj
 artifacts:
   files:
-    - '**/*'
-  base-directory: 'C:\codebuild\artifacts\_PublishedWebsites\${env:PROJECT}_Package\Archive\'
+    - '*/'
