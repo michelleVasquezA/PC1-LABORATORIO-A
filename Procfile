@@ -1,1 +1,1 @@
-web2: dotnet ./app/pc1.dll
+web: dotnet ./app/pc1.dll
