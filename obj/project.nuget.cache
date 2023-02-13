@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "goCHehzqn2AEDrJ519JGxe1KmzCKC7Ly86/YFQsO7VMdx7oJ4dPqF3Ie8xTvYSugZ9pDX1wDPDrUYD754Fn4cQ==",
+  "dgSpecHash": "0lGV4mNut9pahH4Oc3UvzWojlANTrp7fkwnjbIee506XaDBEOZnIgIZMrMhNQRSthNU1UMW0fVQ5jFLpo0OJkg==",
   "success": true,
-  "projectFilePath": "d:\\MICHELLE\\2023\\PROJECTOS_CI-CD_PIPELINE\\PC1-LABORATORIO-A\\pc1.csproj",
+  "projectFilePath": "D:\\MICHELLE\\2023\\PROJECTOS_CI-CD_PIPELINE\\PC1-LABORATORIO-A\\pc1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
